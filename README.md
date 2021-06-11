@@ -1,4 +1,4 @@
-# Linux-terminal-semulator
+# Linux-terminal-simulator
 this program can simulate most of the terminal commands like: 
 #### cd 
 #### pwd
